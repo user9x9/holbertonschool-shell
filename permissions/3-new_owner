@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty permissions/hello
+chown betty ./hello

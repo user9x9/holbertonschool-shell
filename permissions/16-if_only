@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=guillaume vincent hello
+find hello -user guillame -exec chown vincent

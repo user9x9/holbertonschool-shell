@@ -1,3 +1,2 @@
 #!/bin/bash
 sort --ignore-case list | uniq -u | sort --ignore-case
-

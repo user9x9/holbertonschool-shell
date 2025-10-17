@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=4 printf "%.2f \n" $NUM
+export NUM=4 printf "%.2f \n" $NUM

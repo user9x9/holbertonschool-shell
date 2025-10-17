@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {A..Z} | echo {Z..A} | grep -v oo 12-combinations
